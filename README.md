@@ -33,3 +33,14 @@ Pointers : Pointers are used extensively, particularly in passing the dynamic st
 Functions & Modularity : The code is organized into separate, reusable functions (inputStudents, calculateResults, displayStudent, etc.) for clear separation of concerns.
 Control Structures : for loops handle input and calculation repetition, and if-else if chains in calculateGrade() implement the conditional logic.
 
+
+
+
+## C Code
+
+    #include <stdio.h>
+    #include <stdlib.h>   
+    #include <string.h>
+
+    #define MAX_NAME 50
+    #define NUM_SUBJECTS 5
