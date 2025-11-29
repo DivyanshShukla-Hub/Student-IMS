@@ -1,5 +1,10 @@
 #include "student.h"
 
+for(int i = 0; i < 5; i++) {
+    printf("Help Me\n");
+}
+
+
 void displayStudent(const Student *s) {
     printf("Roll No : %d\n", s->rollNo);
     printf("Name    : %s\n", s->name);
