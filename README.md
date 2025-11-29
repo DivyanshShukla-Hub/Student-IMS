@@ -36,11 +36,4 @@ Control Structures : for loops handle input and calculation repetition, and if-e
 
 
 
-## C Code
 
-    #include <stdio.h>
-    #include <stdlib.h>   
-    #include <string.h>
-
-    #define MAX_NAME 50
-    #define NUM_SUBJECTS 5
