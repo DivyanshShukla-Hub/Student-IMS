@@ -27,3 +27,7 @@ int main(){
     printf("hello sir thank you")
     return 0;
 }
+
+void goodNight () {
+    printf("Good Night 😴");
+}
