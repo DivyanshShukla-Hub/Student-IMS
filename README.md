@@ -28,9 +28,13 @@ Robust Input Handling: Implements input validation and uses safe string handling
  ## C Concepts Demonstrated
 
 Structures & Arrays : The Student struct is defined, and Student *students is used to manage an array of structures dynamically.
+
 Dynamic Memory : The function malloc() is used in main() to allocate memory for the student list, and free() is used to release it.
+
 Pointers : Pointers are used extensively, particularly in passing the dynamic student array (Student *students) to functions like inputStudents and calculateResults.
+
 Functions & Modularity : The code is organized into separate, reusable functions (inputStudents, calculateResults, displayStudent, etc.) for clear separation of concerns.
+
 Control Structures : for loops handle input and calculation repetition, and if-else if chains in calculateGrade() implement the conditional logic.
 
 
