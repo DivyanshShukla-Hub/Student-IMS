@@ -22,4 +22,3 @@ void displayAll(const Student *students, int n);
 void displayClassSummary(const Student *students, int n);
 int findTopperIndex(const Student *students, int n);
 void clearInputBuffer();
-
