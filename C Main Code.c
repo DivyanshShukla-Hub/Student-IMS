@@ -22,3 +22,8 @@ void displayAll(const Student *students, int n);
 void displayClassSummary(const Student *students, int n);
 int findTopperIndex(const Student *students, int n);
 void clearInputBuffer();
+
+int main(){
+    printf("hello sir thank you")
+    return 0;
+}
