@@ -15,7 +15,8 @@ int main() {
     printf("\n--- Student Details ---\n");
     printf("Roll Number: %d\n", roll);
     printf("Name: %s\n", name);
-
+ 
+    
     return 0;
 }
 
